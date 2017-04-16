@@ -1,0 +1,24 @@
+{
+  "name": "nl.rrijnberk.user-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrijnberk/nl.rrijnberk.user-generator.git"
+  },
+  "keywords": [
+    "Node",
+    "TypeScript",
+    "UserGenerator"
+  ],
+  "author": "R.Rijnberk <r.rijnberk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rrijnberk/nl.rrijnberk.user-generator/issues"
+  },
+  "homepage": "https://github.com/rrijnberk/nl.rrijnberk.user-generator#readme"
+}
